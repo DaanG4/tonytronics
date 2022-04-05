@@ -88,3 +88,23 @@ main div p
     color: black;
     font-weight: bolder;
 }
+
+footer div {
+    display: inline-block;
+    vertical-align: top;
+    box-sizing: border-box;
+    width: 190px;
+    padding: 15px;
+    background-color: whitesmoke;
+}
+
+footer div a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: black;
+}
